@@ -1,4 +1,38 @@
 {
+  "2017:121463": [
+    {
+      "url": "https://www.figma.com/api/mcp/asset/b26ec010-cc69-4230-ba3f-3b1ec907fdef/60b2d.svg",
+      "file": "2017-121463-imgLine7.svg"
+    },
+    {
+      "url": "https://www.figma.com/api/mcp/asset/b26ec010-cc69-4230-ba3f-3b1ec907fdef/2afe8.svg",
+      "file": "2017-121463-imgLine9.svg"
+    }
+  ],
+  "2019:121854": [
+    {
+      "url": "https://www.figma.com/api/mcp/asset/54ccd736-d335-41a0-88b4-72384a82e7d1/60b2d.svg",
+      "file": "2019-121854-imgLine7.svg"
+    },
+    {
+      "url": "https://www.figma.com/api/mcp/asset/54ccd736-d335-41a0-88b4-72384a82e7d1/2afe8.svg",
+      "file": "2019-121854-imgLine9.svg"
+    }
+  ],
+  "2007:18": [
+    {
+      "url": "https://www.figma.com/api/mcp/asset/d69db0fc-2b00-455d-ba38-6f1d540970fa/60b2d.svg",
+      "file": "2007-18-imgLine7.svg"
+    },
+    {
+      "url": "https://www.figma.com/api/mcp/asset/d69db0fc-2b00-455d-ba38-6f1d540970fa/2afe8.svg",
+      "file": "2007-18-imgLine9.svg"
+    }
+  ],
+  "1933:518": [
+    { "url": "https://www.figma.com/api/mcp/asset/408c5d01-0ca5-4d05-bcec-6003900dbeba/60b2d.svg", "file": "1933-518-imgLine7.svg" },
+    { "url": "https://www.figma.com/api/mcp/asset/408c5d01-0ca5-4d05-bcec-6003900dbeba/2afe8.svg", "file": "1933-518-imgLine9.svg" }
+  ],
   "1913:2": [
     {
       "url": "https://www.figma.com/api/mcp/asset/22ad1597-34b9-40f5-96a0-d7715dfffba1.svg",
